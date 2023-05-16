@@ -1,0 +1,71 @@
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+body {
+  margin: 0;
+  background-image: url("../imagenes/paper.png");
+}
+h2 {
+  color: rgb(17, 158, 87);
+  font-size: 110px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-shadow: 7px 7px rgb(94, 91, 91);
+}
+
+.titlee {
+  color: rgb(3, 161, 82);
+  font-size: 75px;
+  text-align: center;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  text-shadow: 7px 7px white;
+}
+.textt {
+  font-size: 40px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: black;
+  text-align: center;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+#stranger {
+  width: 600px;
+  height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
+#brba {
+  width: 490px;
+  height: 490px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
+#twd {
+  width: 400px;
+  height: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
+#awe {
+  width: 490px;
+  height: 490px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
+#umbrella {
+  width: 400px;
+  height: 490px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  filter: drop-shadow(5px 5px lightgray);
+}
